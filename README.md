@@ -1,2 +1,7 @@
-# bot_instagram_curtida
-Bot para curtidas do insta
+# Curtindo fotos no Instagram de forma automática.
+
+Super simples.
+
+
+
+#### Pedro Lisboa
